@@ -62,7 +62,7 @@ This firmware includes Proxychains-ng. This allows communication between the cam
 Performance is not degraded as the cameras video/audio feed is not routed through the proxy server.
 
 ## Getting Started - Step by Step Guide
-1. Check that you have a correct Xiaomi Yi camera. Currently 3 cameras are supported: 
+1. Check that you have a correct Xiaomi Yi camera. Currently 4 cameras are supported: 
 * Yi Home 17CN Camera
 * Yi 1080p Home Camera
 * Yi Dome Camera
